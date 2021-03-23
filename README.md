@@ -9,5 +9,6 @@
 - [X] JUnit5.4
 - [X] RESTful API
 - [ ] AWS Lambda
+- [ ] Serverless
 - [ ] CI/CD pipeline
 - [ ] Terraform
