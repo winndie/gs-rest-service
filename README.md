@@ -1,6 +1,6 @@
 ### This project is forked from [Spring Guides](https://github.com/spring-guides/gs-rest-service)
 
-#### Project instruction is [here](./README.original.md)
+#### Project instruction is [here](./README.original.adoc)
 
 #### Technology stack used
 - [X] Java11
